@@ -1,0 +1,26 @@
+{
+    "className": "TextLabel",
+    "properties": {
+        "BackgroundColor3": {
+            "Color3uint8": [255, 255, 255]
+        },
+        "BackgroundTransparency": 1,
+        "Position": {
+            "UDim2": [[0, 2], [0, 10]]
+        },
+        "Rotation": 180,
+        "Size": {
+            "UDim2": [[0, 30], [0, 30]]
+        },
+        "Font": "SourceSansBold",
+        "Text": "<",
+        "TextColor3": {
+            "Color3uint8": [255, 255, 255]
+        },
+        "TextSize": 24,
+        "TextStrokeColor3": {
+            "Color3uint8": [30, 255, 255]
+        },
+        "TextWrapped": true
+    }
+}

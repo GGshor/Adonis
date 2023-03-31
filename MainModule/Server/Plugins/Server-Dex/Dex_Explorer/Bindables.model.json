@@ -1,0 +1,45 @@
+{
+    "ClassName": "Folder",
+    "Children": [
+      {
+        "Name": "GetApi",
+        "ClassName": "BindableFunction"
+      },
+      {
+        "Name": "GetAwaiting",
+        "ClassName": "BindableFunction"
+      },
+      {
+        "Name": "GetOption",
+        "ClassName": "BindableFunction"
+      },
+      {
+        "Name": "GetPrint",
+        "ClassName": "BindableFunction"
+      },
+      {
+        "Name": "GetSelection",
+        "ClassName": "BindableFunction"
+      },
+      {
+        "Name": "GetSpecials",
+        "ClassName": "BindableFunction"
+      },
+      {
+        "Name": "SetOption",
+        "ClassName": "BindableFunction"
+      },
+      {
+        "Name": "SetSelection",
+        "ClassName": "BindableFunction"
+      },
+      {
+        "Name": "SelectionChanged",
+        "ClassName": "BindableEvent"
+      },
+      {
+        "Name": "SetAwaiting",
+        "ClassName": "BindableEvent"
+      }
+    ]
+  }
